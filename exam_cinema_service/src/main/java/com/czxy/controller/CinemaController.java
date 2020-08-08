@@ -68,6 +68,7 @@ public class CinemaController {
     @GetMapping("/FindCinemaByCid/{cid}")
     public BaseResult FindCinemaByCid(@PathVariable("cid")Integer cid){
        Cinema cinema =  cinemaService.FindCinemaByCid(cid);
+        System.out.println(cinema+"2312132132131231");
        return BaseResult.ok("查询成功",cinema);
     }
     @PutMapping("/updateCinema")
