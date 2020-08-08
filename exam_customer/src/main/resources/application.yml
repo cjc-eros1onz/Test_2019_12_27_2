@@ -1,0 +1,14 @@
+server:
+  port: 9060
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/cloud_db1?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    username: root
+    password: 947411
+  application:
+    name: examcustomer
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8600/eureka/

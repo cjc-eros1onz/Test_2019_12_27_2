@@ -1,0 +1,11 @@
+server:
+  port: 8600
+spring:
+  application:
+    name: exam_eureka
+eureka:
+  client:
+    service-url:
+     defaultZone: http://localhost:8600/eureka/
+    register-with-eureka: false #关闭注册自己
+    fetch-registry: false       #关闭拉取列表

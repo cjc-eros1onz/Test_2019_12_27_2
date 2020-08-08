@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Common" />
+        <module name="exam_cinema_service" />
+        <module name="exam_customer" />
+        <module name="exam_eureka" />
+        <module name="exam_film_service" />
+        <module name="exam_zull" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Common" target="1.8" />
+      <module name="exam_cinema_service" target="1.8" />
+      <module name="exam_customer" target="1.8" />
+      <module name="exam_eureka" target="1.8" />
+      <module name="exam_film_service" target="1.8" />
+      <module name="exam_zull" target="1.8" />
+      <module name="Test_2019_12_27_2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

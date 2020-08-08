@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_2019_12_27_2.iml" filepath="$PROJECT_DIR$/Test_2019_12_27_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam_cinema_service/exam_cinema_service.iml" filepath="$PROJECT_DIR$/exam_cinema_service/exam_cinema_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam_customer/exam_customer.iml" filepath="$PROJECT_DIR$/exam_customer/exam_customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam_eureka/exam_eureka.iml" filepath="$PROJECT_DIR$/exam_eureka/exam_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam_film_service/exam_film_service.iml" filepath="$PROJECT_DIR$/exam_film_service/exam_film_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam_zull/exam_zull.iml" filepath="$PROJECT_DIR$/exam_zull/exam_zull.iml" />
+    </modules>
+  </component>
+</project>
